@@ -1,3 +1,0 @@
-BELAJAR KONEKSI DARI DATABASE KEDALAM CODINGAN PHP & HTML
-- Insert kedalam database
-- Menampilkan data dari database
