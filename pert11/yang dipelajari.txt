@@ -1,0 +1,6 @@
+BELAJAR KONEKSI DARI DATABASE KEDALAM CODINGAN PHP & HTML
+
+- Menambah data kedalam database
+- Menampilkan data dari database
+- Mengupdate data dari database
+- Menghapus data dari database
